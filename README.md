@@ -1,6 +1,6 @@
 
 # Loan Predictor
-
+Model Predict That if person if eligible for getting loan or not
 It is Classification Model .
 It take various parameter like "Income","Property_Area",ect.
 
